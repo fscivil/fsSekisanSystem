@@ -42,7 +42,9 @@
 ## 主な画面
 
 ### Start（起動画面）
+####使用者登録
 ![Start](Start/Start使用者.jpg)
+####スタート画面
 ![Start](Start/Startメイン画面.jpg)
 
 ### 積算開始
