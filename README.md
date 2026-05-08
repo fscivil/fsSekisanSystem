@@ -91,7 +91,7 @@
 ![補助業務](補助業務/補助業務ファイル統合.jpg)
 
 ### fsStart
-  メイン画面
+  補助メイン画面
 
 ![fsStart](fsStart/fsStartメイン.jpg)
 
