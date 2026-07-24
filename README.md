@@ -1,4 +1,4 @@
-### 📥 最新版ダウンロード（Ver11.4）
+### 📥 最新版ダウンロード（Ver11.5）
 https://github.com/fscivil/fsSekisanSystem/releases/download/Ver11.4/fsSekisanSystem.Ver11.4.zip
 
 ```
