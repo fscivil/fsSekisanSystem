@@ -1,5 +1,4 @@
-### 📥 最新版ダウンロード（Ver11.5）
-[[https://github.com/fscivil/fsSekisanSystem/releases/download/Ver11.4/fsSekisanSystem.Ver11.4.zip](https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan115.zip)](https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan115.zip)
+### 📥 最新版ダウンロード（Ver11.5）(https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan115.zip)
 
 
 ```
