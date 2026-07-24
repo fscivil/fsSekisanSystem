@@ -54,7 +54,7 @@
 ![Start](Start/Start使用者.jpg)
   スタート画面
   
-![Start](Start/Startメイン画面.jpg)
+![Start](始める/メイン画面.jpg)
 　メイン画面
 
 ### 積算開始
