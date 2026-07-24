@@ -55,6 +55,7 @@ https://github.com/fscivil/fsSekisanSystem/releases/download/Ver11.4/fsSekisanSy
   スタート画面
   
 ![Start](Start/Startメイン画面.jpg)
+　メイン画面
 
 ### 積算開始
   内訳書記入
