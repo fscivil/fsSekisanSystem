@@ -48,9 +48,9 @@
 
 
 ### Start（起動画面）
-  使用者登録
+  利用者登録
   
-![Start](Start/Start使用者.jpg)
+![Start](Start/利用者登録.jpg)
   スタート画面
   
 ![Start](Start/メイン画面.jpg)
