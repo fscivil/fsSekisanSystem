@@ -1,4 +1,4 @@
-### 📥 最新版ダウンロード（Ver11.5）    https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan116.zip
+### 📥 最新版ダウンロード（Ver11.6）    https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan116.zip
 
 ```
 ・Excel 積算
