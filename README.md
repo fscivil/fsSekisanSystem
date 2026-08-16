@@ -1,4 +1,4 @@
-### 📥 最新版ダウンロード（Ver11.5）    https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan115.zip
+### 📥 最新版ダウンロード（Ver11.5）    https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan116.zip
 
 ```
 ・Excel 積算
@@ -43,6 +43,9 @@
   26. fsStart画面を更新
   27. 令和8年度労務単価・法定福利費率（国交省・農林省）を採用
   28. 建設業改訂に伴う「材料費・労務費・法定福利費・建退共・安全衛生経費」マクロを実装
+  29. 下請発注予定額のシュミレーションを現場経費で行えるようにした
+  30. 「代価項目実行」のAutofilterの設定変更
+
 
 ## 主な画面
 
