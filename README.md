@@ -1,4 +1,4 @@
-### 📥 最新版ダウンロード（Ver11.6）    https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan116.zip
+### 📥 最新版ダウンロード（Ver11.7）    https://github.com/fscivil/fsSekisanSystem/blob/main/fssekisan117.zip
 
 ```
 ・Excel 積算
@@ -45,6 +45,7 @@
   28. 建設業改訂に伴う「材料費・労務費・法定福利費・建退共・安全衛生経費」マクロを実装
   29. 下請発注予定額のシュミレーションを現場経費で行えるようにした
   30. 「代価項目実行」のAutofilterの設定変更
+  31. 予算書ファイル統合化（2016版にも対応）
 
 
 ## 主な画面
@@ -110,7 +111,7 @@
 
 ## ■ 動作環境
  　　・Windows 10 / 11  
-　　 ・Microsoft Excel 2016 以降（VBA が使用可能な環境）
+　　 ・Microsoft Excel2024（推奨）
 ```
 ## ■ インストール方法
 　　 1. 本リポジトリの **Releases** または **ZIP ファイル** をダウンロード  
